@@ -12,7 +12,7 @@ Hi, I’m Przemysław, I'm beginner developer, I’m interested in programming, 
 ![small](https://user-images.githubusercontent.com/60342810/124352853-58eef500-dc03-11eb-911f-7e31496a006c.jpg)
 
 ## Programming
-My first steps towards programming, I took when I was still in high school, and these were the basics of Pascal and C ++. I went to the University of Economics in Katowice to study, but unfortunately I could not finish them. During my studies, I managed to learn the basics of the C # language. After a few years, I decided to return to programming and explore the basics of the Java language under the supervision of mentors at the Software Development Academy, focusing on developing towards a Java developer.
+My first steps towards programming, I took when I was still in high school, and these were the basics of Pascal and C++. I went to the University of Economics in Katowice to study, but unfortunately I could not finish them. During my studies, I managed to learn the basics of the C # language. After a few years, I decided to return to programming and explore the basics of the Java language under the supervision of mentors at the Software Development Academy, focusing on developing towards a Java developer.
 I have always liked to solve problems and make repetitive tasks easier, I believe that programming as one of the tools will allow me and others to make our life more enjoyable.
 
 ## Course Software Development Academy
