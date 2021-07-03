@@ -1,5 +1,11 @@
 # Przemysław Piwoński
 
+* [About me](#about-me)
+* [Programming](#programming)
+* [Course Software Development Academy](#course-software-development-academy)
+* [Technologies](#technologies)
+* [Contact](#contact)
+
 ## About me
 Hi, I’m Przemysław, I'm beginner developer, I’m interested in programming, motorcykles, F1, PC games and more :). I’m currently focus on Java, Spring Boot, SQL and a little bit of front-end technologies.
 
@@ -17,9 +23,8 @@ I had a pleasure to take a programming course in Software Development Academy
 ![java_od_podstaw_2](https://user-images.githubusercontent.com/60342810/124352915-a53a3500-dc03-11eb-9785-aebef755ef69.jpg)
 
 ## Technologies
-<center>
 ![technical_skills](https://user-images.githubusercontent.com/60342810/124352488-a322a700-dc00-11eb-940f-963017fba05f.png)
-</center>
+
 
 ## Contact
 * przemyslaw.piwonski@gmail.com
