@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, Spring Boot, SQL and a little bit of front-end technologies
 - 📫 How to reach me: 
     - przemyslaw.piwonski@gmail.com
-    - https://www.linkedin.com/in/przemyslaw-piwonski/
+    - [LinkedIn](https://www.linkedin.com/in/przemyslaw-piwonski/)
 <!---
 - 💞️ I’m looking to collaborate on ...
 
